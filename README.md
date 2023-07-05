@@ -10,4 +10,6 @@ My sources will be:
 - [Stephane Maarek - Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
 - [Be a Better Dev](https://www.youtube.com/@BeABetterDev)
 
-_Update this as time goes on_
+**IMPORTANT: THIS IS NOT A COURSE, THESE ARE JUST NOTES FROM THE COURSES, SO I CAN READ THEM IN THE BUS OR IN THE BATHROOM (XD). I REALLY RECOMMEND TO TAKE THE COURSES I SPECIFIED ABOVE.**
+
+_Will update this as time goes on_
