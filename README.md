@@ -1,13 +1,13 @@
-# Notas para AWS Solutions Architect Associate.
+# Notes for AWS Solutions Architect Associate Certification Exam.
 
-Este repositorio servirá para guardar mis notas para el **SAA-C03 de AWS**.
+This repository will serve to store my notes for the **SAA-C03 de AWS**.
 
-En este punto, ya lo he reprobado en dos ocasiones, por lo que me he propuesto a crear estas notas que me ayudarán a estudiarlo con la seriedad que merece.
+At this point, I have already failed it twice, which is why I have decided to create these notes that will help me study it with the seriousness it deserves.
 
-Mis fuentes de consulta serán:
+My sources will be:
 
 - [Whizlabs - AWS Certified Solutions Architect Associate Course](https://www.whizlabs.com/aws-solutions-architect-associate/)
 - [Stephane Maarek - Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
 - [Be a Better Dev](https://www.youtube.com/@BeABetterDev)
 
-_Actualizaré esto conforme pasa el tiempo_
+_Update this as time goes on_
