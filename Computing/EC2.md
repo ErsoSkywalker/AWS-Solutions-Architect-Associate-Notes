@@ -36,4 +36,16 @@ There are multiple options for purchasing EC2 instances, that allows you to opti
   - All Upfront: You are paying for the entire reservation upfront, so that will reduce your long time cost.
   - Partial Upfront: You pay a part, but theres a part you need to cover also.
   - No Upfront: You don't pay Upfront, but you have the commitment of use the reserved EC2 instance.
-- **Spot Instances**: TBD, working on understand it
+- **Spot Instances**: So you take instances at very low cost, but your instances can be terminated by AWS and taken for someone else, so if you use them, you have to think in processes that can be finished and continued in different times.
+
+## Saving Plans
+
+You can use different Saving plans focused to get discounts on using compute options like AWS EC2, AWS Fargate and AWS Lambda. This Saving Plans are also for **1 or 3 years**.
+
+Use AWS Cost explorer to check which saving plans are aplicable for you.
+
+There are two different types:
+
+- **Compute Saving Plans**: This plan required to commit to a specific ammount of compute resources for **one or three year term**, you can use EC2, Lambda, Fargate to fulfill it.
+- **EC2 Instances Saving Plans**: Requires to commit to a specific family and size for a **one or three year term**, you can change the size within the same family during the term.
+- **SageMaker Saving Plans**: TBD
